@@ -1,0 +1,61 @@
+.container{
+    width: 100%;
+    height: 12opx;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box{
+    border: 4px dotted;
+    border: 40px;
+}
+
+.yellow{
+    background-color: yellow;
+    height: 130px;
+    width: 170px;
+    margin-bottom: 2px;
+}
+
+.blue{
+    background-color: blue;
+    height: 130px;
+    width: 75%;
+    margin-bottom: 2px;
+}
+
+.container2{
+    height: 900px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.greenyellow{
+    background-color: greenyellow;
+    height: 100px;
+    width: 10px;
+}
+
+.aqua1{
+    background-color: aquamarine;
+    height: 100px;
+    width: 9px;
+}
+
+.aqua2{
+    background-color: aqua;
+    height: 100px;
+    width: 8px;
+}
+
+.container3{
+    width: 100px;
+    height: 150px;
+}
+
+.orange{
+    background-color: orange;
+    height: 150px;
+    width: 100px;
+}
